@@ -1,2 +1,2 @@
 # pglp_3.1
-Illustration du principe de responsabilité unique (SRP)
+Illustration du principe de de responsabilité unique
